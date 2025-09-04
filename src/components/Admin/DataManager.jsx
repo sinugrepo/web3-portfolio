@@ -5,7 +5,6 @@ import {
   PencilIcon,
   TrashIcon,
   PlusIcon,
-  ChevronDownIcon,
   ChevronRightIcon 
 } from '@heroicons/react/24/outline';
 import Button from '../UI/Button';

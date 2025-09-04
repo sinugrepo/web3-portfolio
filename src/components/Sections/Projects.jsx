@@ -5,7 +5,6 @@ import {
   PencilIcon, 
   TrashIcon, 
   FunnelIcon,
-  EyeIcon,
   CodeBracketIcon,
   ArrowTopRightOnSquareIcon,
   DocumentTextIcon 

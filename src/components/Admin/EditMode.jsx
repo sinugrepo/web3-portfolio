@@ -6,8 +6,7 @@ import {
   ArrowDownTrayIcon,
   ArrowUpTrayIcon,
   TrashIcon,
-  ExclamationTriangleIcon,
-  CheckCircleIcon 
+  ExclamationTriangleIcon
 } from '@heroicons/react/24/outline';
 import Modal from '../UI/Modal';
 import Button from '../UI/Button';

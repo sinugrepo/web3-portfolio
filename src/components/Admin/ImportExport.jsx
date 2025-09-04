@@ -9,7 +9,7 @@ import {
   ClipboardDocumentIcon 
 } from '@heroicons/react/24/outline';
 import Button from '../UI/Button';
-import { handleFileUpload, createBackup, formatFileSize, generateSampleData } from '../../utils/jsonHandler';
+import { handleFileUpload, formatFileSize, generateSampleData } from '../../utils/jsonHandler';
 import { downloadJSON } from '../../utils/dataManager';
 
 const ImportExport = ({ portfolioData, onImport, onExport, onClose }) => {
